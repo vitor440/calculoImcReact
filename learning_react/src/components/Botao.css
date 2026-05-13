@@ -1,0 +1,24 @@
+#btn-calc,
+#btn-limpar {
+    height: 50px;
+    width: 140px;
+    background-color: #960808;
+    color: #fff;
+    border: none;
+    opacity: 0.9;
+    cursor: pointer;
+    margin: 0 0.6rem;
+}
+
+#btn-calc:hover,
+#btn-limpar:hover {
+    opacity: 1.0;
+    
+}
+
+
+#btn-limpar {
+    
+    background-color: #222121;
+    
+}
